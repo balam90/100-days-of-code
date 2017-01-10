@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 8, 2017, Sunday
+
+**Today's Progress**: I fixed up the styling of my headshot make it look better.
+
+**Thoughts**: I had to crop the original image because it was too tall. I wanted a nice round image so I needed a square image to get the border-radius property to work the way I wanted it to. Honestly, I could've made more progress.
+
+**Link(s) to work**
+1. [FreeCodeCamp: Build a Personal Portfolio Webpage](https://codepen.io/balam90/pen/yVZMBd)
+
 ### Day 2: January 7 2017, Saturday
 
 **Today's Progress**: Today I worked on building the thumbnail grid for the Portfolio section of my Build a Personal Portfolio Webpage project for FreeCodeCamp. I also added my headshot and some placeholder text to the About section.

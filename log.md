@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 9 2017, Monday
+
+**Today's Progress**: I added a contact for to the Contact section of my portfolio web page.
+
+**Thoughts**: Didn't get enough done today either. I get distracted by articles about coding while I'm trying yo figure out syntax or solving some other problem.
+
+**Link(s) to work**
+1. [FreeCodeCamp: Build a Personal Portfolio Webpage](https://codepen.io/balam90/pen/yVZMBd)
+
 ### Day 3: January 8, 2017, Sunday
 
 **Today's Progress**: I fixed up the styling of my headshot make it look better.

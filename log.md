@@ -2,6 +2,13 @@
 
 ### Day 8: January 15 2017, Sunday
 
+**Today's Progress**: Added some box shadows to the shapes making up my pure CSS cub.
+
+**Thoughts**: I'm satisfied with the way the pure CSS cub came out. I look forward to further improving my CSS skills.
+
+**Link(s) to work**
+1. [Daily CSS Images: Day 01 - Cub](http://codepen.io/balam90/full/GrZNVa/)
+
 ### Day 7: January 14 2017, Saturday
 
 **Today's Progress**: Finalized the shapes of my cub for the Daily CSS Images challenge.

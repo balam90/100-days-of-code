@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 15 2017, Sunday
+
+### Day 7: January 14 2017, Saturday
+
+**Today's Progress**: Finalized the shapes of my cub for the Daily CSS Images challenge.
+
+**Thoughts**: Illustrating with CSS can be frustrating when you can't get elements to look just the way you want them to. I saw some illustrations done by others and was impressed by what can be done with SCSS.
+
+**Link(s) to work**
+1. [Daily CSS Images: Day 01 - Cub](http://codepen.io/balam90/full/GrZNVa/)
+
+### Day 6: January 13 2017, Friday
+
+**Today's Progress**: I adjusted positioning some more on my portfolio web page. I started working on my first Daily CSS Image challenge: a cub.
+
+**Thoughts**: I really like the illustrations people have made with pure CSS code. I'm doing this challege to further improve my CSS skills. Don't know if it's something I'll incorporate all the time, but the practice is helping me grasp CSS.
+
+**Link(s) to work**
+1. [FreeCodeCamp: Build a Personal Portfolio Webpage](https://codepen.io/balam90/pen/yVZMBd)
+2. [Daily CSS Images: Day 01 - Cub](http://codepen.io/balam90/full/GrZNVa/)
+
+### Day 5: January 10 2017, Tuesday
+
+**Today's Progress**: I adjusted the positioning of various elements in my Portfolio and Contact sections of my portfolio web page. I also added links to my social media accounts to the Contact section.
+
+**Thoughts**: I used to be really confused by the box model when I first started out. I couldn't wrap my head around the concept. Now I rely on it to position everything the way I want it.
+
+**Link(s) to work**
+1. [FreeCodeCamp: Build a Personal Portfolio Webpage](https://codepen.io/balam90/pen/yVZMBd)
+
 ### Day 4: January 9 2017, Monday
 
 **Today's Progress**: I added a contact for to the Contact section of my portfolio web page.
